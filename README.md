@@ -1,5 +1,11 @@
 <h3 align="center">Yeah, that's me.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuzenc&label=Profile%20views&color=0e75b6&style=flat" alt="ryuzenc" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryuzenc" alt="ryuzenc" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ryu_zenc" target="blank"><img src="https://img.shields.io/twitter/follow/ryu_zenc?logo=twitter&style=for-the-badge" alt="ryu_zenc" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ryu_zenc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ryu_zenc" height="30" width="40" /></a>
