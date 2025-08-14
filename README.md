@@ -12,8 +12,11 @@
 
 - 📫 Reach me **bs.zenc@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryuzenc&show_icons=true&theme=radical&locale=en&layout=compact" alt="ryuzenc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuzenc&show_icons=true&theme=tokyonight&locale=en" alt="ryuzenc" /></p>
+<p align="left">
+<a href="https://github.com/ryuzenc">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ryuzenc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryuzenc&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzenc&theme=dark" alt="ryuzenc" /></p>
