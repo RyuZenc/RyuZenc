@@ -19,5 +19,3 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzenc&theme=dark" alt="ryuzenc" />
 </a>
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryuzenc&theme=dark" alt="ryuzenc" /></p>
