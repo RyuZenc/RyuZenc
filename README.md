@@ -6,10 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/bvb3wWbX6B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bvb3wWbX6B" height="30" width="40" /></a>
-</p>
-<p align="left">
-<a href="linkedin.com/in/dhimasadmaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="bvb3wWbX6B" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhimasadmaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhimasadmaja" height="30" width="40" /></a>
 </p>
 
 
